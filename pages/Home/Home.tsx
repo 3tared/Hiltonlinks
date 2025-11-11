@@ -1,13 +1,6 @@
 "use client";
 import React from "react";
 import { motion, Variants } from "framer-motion";
-import {
-  FaInstagram,
-  FaWhatsapp,
-  FaFacebook,
-  FaTiktok,
-  FaTelegram,
-} from "react-icons/fa";
 import { ICON_MAP, PROFILE_DATA } from "@/constants";
 
 export default function LinktreePage() {

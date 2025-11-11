@@ -72,9 +72,21 @@ export const PROFILE_DATA: ProfileData = {
     },
     {
       id: "5",
+      title: "Owner TikTok",
+      url: "https://www.tiktok.com/@yehya..1",
+      icon: "tiktok",
+    },
+    {
+      id: "6",
       title: "Our Telegram Channel",
       url: "https://t.me/hiltonelhikma",
       icon: "telegram",
+    },
+    {
+      id: "7",
+      title: "Owner Link",
+      url: "https://yehialinks.vercel.app/",
+      icon: "globe",
     },
   ],
 
